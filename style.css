@@ -103,6 +103,10 @@ footer {
         text-align: center;
     }
 
+    .head p {
+        font-size: 0.8em;
+    }
+
     .boxes {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
